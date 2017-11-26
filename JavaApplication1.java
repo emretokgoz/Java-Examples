@@ -6,9 +6,9 @@ import java.util.Scanner;
 public class JavaApplication1 {
    
     public static void main(String[] args) {
-  
-    for(;;){
+    
     Scanner scan = new Scanner(System.in);
+    for(;;){
  
         System.out.println("A için bir değer girin:");
     int a = scan.nextInt();
