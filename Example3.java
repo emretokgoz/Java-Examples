@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 
-public class Exampe3 {
+public class Example3 {
     public static void main(String[] args) {
         
         String islemler ="1. Toplama İşlemi\n"
